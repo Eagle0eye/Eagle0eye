@@ -59,7 +59,7 @@ Hi, I'm **Yousef Mohamed**, a **passionate and results-driven Java Backend Devel
 ----
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yousef.mohamed.12) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yousef-Mohamed-709-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YousefMuhamad6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef.mohamed.12@hotmail.com) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yousef.mohamed.12) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yousef-Mohamed-709-1) [![Yousef Mohamed](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YousefMuhamad6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef.mohamed.12@hotmail.com) 
 
 ## 🔥 **GitHub Stats**  
 
