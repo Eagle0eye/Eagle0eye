@@ -1,6 +1,7 @@
 # Eagle0Eye@github
-
-Hi, I'm **Yousef Mohamed**, a **passionate and results-driven Java Backend Developer** with a strong **flair for scalable software development and cloud computing**. I thrive on tackling **complex challenges** and transforming them into **innovative, high-performance solutions**.  
+<p align="center">
+  <img align="center" width="400" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Yousef+Mohamed;A+Passionate+Java+Backend+Developer">
+</p>
 
 🚀 **Aspiring to push the boundaries of backend engineering**, I focus on **microservices, distributed systems, and cloud-native development**, ensuring reliability, efficiency, and maintainability.  
 
