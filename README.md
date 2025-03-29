@@ -1,47 +1,59 @@
-# Eagle0Eye@github~$
+# 0xEagleEye@github~$ whoami 🦅  
 
-Hi, I'm **Yousef Mohamed**, a **Java Backend Developer** with a passion for **building scalable, high-performance systems** and solving complex backend challenges. Over the years, I’ve honed my expertise across diverse domains, including **Microservices, Distributed Systems, and Cloud-Native Development**.  
+Hi, I'm **Yousef Mohamed**, a **passionate and results-driven Java Backend Developer** with a strong **flair for scalable software development and cloud computing**. I thrive on tackling **complex challenges** and transforming them into **innovative, high-performance solutions**.  
 
-I have experience working with **high-traffic enterprise applications, event-driven architectures, and system optimization**, ensuring reliability, efficiency, and maintainability.  
+🚀 **Aspiring to push the boundaries of backend engineering**, I focus on **microservices, distributed systems, and cloud-native development**, ensuring reliability, efficiency, and maintainability.  
 
 ---
 
-## 🛠 **Technologies I Work With**  
+## 🛠 **Technical Expertise**  
 
 ### **Backend & Frameworks**  
-☕ **Java**, **Spring Boot**, **Spring Security**, **Spring Cloud**, **JPA**, **Hibernate**  
-⚡ **RESTful APIs**, **WebSockets**, **Microservices**, **Hexagonal Architecture**  
+☕ **Java**, **Spring Boot**, **Spring Security**, **Spring Cloud**, **JPA**, **Hibernate**, **JDBC**  
+⚡ **RESTful APIs**, **Microservices**, **Hexagonal Architecture**  
 
 ### **Databases & Caching**  
-🛢 **PostgreSQL**, **MongoDB**, **Redis**, **MySQL**  
-⚡ **Database Optimization**, **Indexing**, **Query Performance Tuning**  
+🛢 **PostgreSQL**, **MongoDB**, **MySQL**, **Amazon DynamoDB**  
+⚡ **Database Optimization**, **Indexing**, **Query Performance Tuning**, **Caching Strategies**  
 
 ### **Messaging & Event-Driven Systems**  
-📩 **RabbitMQ**, **Kafka**, **Event Sourcing**, **CQRS**  
+📩 **RabbitMQ**, **Kafka** 
 
 ### **Monitoring & Logging**  
 📊 **ELK Stack (Elasticsearch, Logstash, Kibana)**, **Prometheus**, **Grafana**  
 
-### **DevOps & Cloud**  
-🐳 **Docker**, **Kubernetes**, **CI/CD Pipelines**, **AWS**, **Terraform**  
+### **Machine Learning & AI**  
+🧠 **TensorFlow**, **Pandas**
 
 ### **Software Principles**  
 🎯 **SOLID Principles**, **Clean Code**, **Design Patterns**, **Object-Oriented Analysis & Design (OOA&D)**  
 
 ---
 
-## 📖 **More About Me**  
+## 🎓 **Education & Certifications**  
 
-💡 *I live by the philosophy that software engineering is about continuous learning, problem-solving, and engineering excellence.*  
-I am passionate about **clean, maintainable code, system scalability, and knowledge sharing**.  
+🎓 **B.Sc. in Computer Science** – Benha Faculty of Computer and Artificial Intelligence, Egypt  
+📌 **GPA: 3.0/4.0** – Continuously expanding my expertise in **Software Development & Software Testing**  
 
-📚 **Avid Learner** – Always exploring new technologies and architectural patterns to build better software.  
-✍️ **Tech Writer** – I enjoy writing about backend development, system design, and best practices on **Medium** & **Quora**.  
-🎯 **Knowledge Sharing** – I believe in the power of community-driven learning and strive to contribute through blogs, open-source projects, and mentorship.  
+📜 **Certifications**  
+✔ **Red Hat System Administration**  
+✔ **ISTQB® Foundation Level**  
 
 ---
 
-## 🌐 **Let's Connect**  
+## 💡 **Problem-Solver & Open-Source Enthusiast**  
+
+🔍 **Problem Solver** – With a **keen eye for detail** and a **logical mindset**, I love tackling complex challenges and crafting **optimized, efficient solutions** using **data structures & algorithms**.  
+
+🌍 **Open-Source Contributor** – Actively contributing to **open-source projects**, sharing knowledge, and learning from the **developer community**.  
+
+📚 **Continuous Learner** – Always diving into **new technologies**, architectural patterns, and best practices to build better software.  
+
+🎤 **Public Speaker** – Passionate about **sharing insights** through **tech talks, articles, and mentorship**.  
+
+---
+
+## 🌐 **Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-muhamadd/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eagle0eye)  
@@ -62,14 +74,12 @@ I am passionate about **clean, maintainable code, system scalability, and knowle
 
 ---
 
-### ✍️ **Random Dev Quote**  
+### ✍️ **Dev Quote**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ---
 
-### 👀 **Profile Visitors**  
+### 👀 **Visitors**  
 [![](https://visitcount.itsvg.in/api?id=Eagle0eye&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 ---
-
-💡 *Proudly crafted with 🚀 passion for software engineering & backend excellence!*  
