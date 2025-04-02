@@ -67,8 +67,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eagle0eye&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="49%"> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle0eye&theme=github_dark_dimmed&hide_border=false" width="49%">  
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle0eye&theme=github_dark_dimmed&hide_border=false&layout=compact" width="50%">  
 </div>  
 
