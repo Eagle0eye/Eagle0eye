@@ -1,6 +1,6 @@
 # EagleEye@InfoTech
 <p align="center">
-  <img align="center" width="500" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Yousef+Mohamed;A+Passionate+Software+Engineer+QA+Enfineer+Java+Backend+Developer">
+  <img align="center" width="500" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Yousef+Mohamed;A+Passionate+Software+Engineer;QA+Enfineer;Java+Backend+Developer">
 </p>
 
 🚀 **Aspiring to push the boundaries of backend engineering**, I focus on **microservices, distributed systems, and cloud-native development**, ensuring reliability, efficiency, and maintainability.  
